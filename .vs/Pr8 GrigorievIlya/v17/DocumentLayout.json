@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Student\\source\\repos\\Pr8 GrigorievIlya\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6E19F5D0-DF2B-45D0-82D5-71A237669F76}|Pr8 GrigorievIlya\\Pr8 GrigorievIlya.csproj|c:\\users\\student\\source\\repos\\pr8 grigorievilya\\pr8 grigorievilya\\person\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E19F5D0-DF2B-45D0-82D5-71A237669F76}|Pr8 GrigorievIlya\\Pr8 GrigorievIlya.csproj|solutionrelative:pr8 grigorievilya\\person\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E19F5D0-DF2B-45D0-82D5-71A237669F76}|Pr8 GrigorievIlya\\Pr8 GrigorievIlya.csproj|c:\\users\\student\\source\\repos\\pr8 grigorievilya\\pr8 grigorievilya\\person\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E19F5D0-DF2B-45D0-82D5-71A237669F76}|Pr8 GrigorievIlya\\Pr8 GrigorievIlya.csproj|solutionrelative:pr8 grigorievilya\\person\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6E19F5D0-DF2B-45D0-82D5-71A237669F76}|Pr8 GrigorievIlya\\Pr8 GrigorievIlya.csproj|c:\\users\\student\\source\\repos\\pr8 grigorievilya\\pr8 grigorievilya\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E19F5D0-DF2B-45D0-82D5-71A237669F76}|Pr8 GrigorievIlya\\Pr8 GrigorievIlya.csproj|solutionrelative:pr8 grigorievilya\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Pr8 GrigorievIlya\\Pr8 GrigorievIlya\\Person\\Triangle.cs",
+              "RelativeDocumentMoniker": "Pr8 GrigorievIlya\\Person\\Triangle.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Pr8 GrigorievIlya\\Pr8 GrigorievIlya\\Person\\Triangle.cs",
+              "RelativeToolTip": "Pr8 GrigorievIlya\\Person\\Triangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:11:30.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Pr8 GrigorievIlya\\Pr8 GrigorievIlya\\Person\\Person.cs",
+              "RelativeDocumentMoniker": "Pr8 GrigorievIlya\\Person\\Person.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Pr8 GrigorievIlya\\Pr8 GrigorievIlya\\Person\\Person.cs",
+              "RelativeToolTip": "Pr8 GrigorievIlya\\Person\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T10:40:56.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Pr8 GrigorievIlya\\Pr8 GrigorievIlya\\Program.cs",
               "RelativeDocumentMoniker": "Pr8 GrigorievIlya\\Program.cs",
